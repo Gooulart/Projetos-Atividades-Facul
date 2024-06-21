@@ -1,10 +1,3 @@
-# INSIRA ABAIXO OS NOMES DOS ALUNOS DO GRUPO (máximo 6 alunos)
-# ALUNO 1: Gustavo Goulart da Silva
-# ALUNO 2: Vinicius Rodrigues Brito Bomfim
-# ALUNO 3: Vitor Girão de Lima
-# ALUNO 4: Vinicius Ramos da Cunha
-# ALUNO 5: Anderson Nunes de Bonoso
-# ALUNO 6:
 
 arq = open("notas.txt", "r", encoding="UTF-8")
 
