@@ -1,11 +1,3 @@
-# INSIRA ABAIXO OS NOMES DOS ALUNOS DO GRUPO (máximo 6 alunos)
-# ALUNO 1: Gustavo Goulart da Silva
-# ALUNO 2: Vinicius Rodrigues Brito Bomfim
-# ALUNO 3: Vitor Girão de Lima
-# ALUNO 4: Vinicius Ramos da Cunha
-# ALUNO 5:
-# ALUNO 6:
-
 class Endereco:
     def __init__(self, rua, numero, complemento, bairro, cidade, uf, cep):
         self.rua = rua
